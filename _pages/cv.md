@@ -11,27 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Bioinformatics and Computer Science, University of New South Wales, 2024
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<!-- * Investigation of BAM15 as a Protective Agent for Islet Transplant
+  * Feb 2020 - May 2020
+  * Supervisor: Dr. Frances Byrne, Senior Lecturer at the School of Biotechnology & Biomolecular Sciences, UNSW -->
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* PROTECC CORAL: the engineering of Symbiodium algae in coral to increase thermal tolerance (iGEM project)
+  * Feb 2020 - Nov 2020
+  * Supervisor: Dr. Dominic Glover, Senior Lecturer at the School of Biotechnology & Biomolecular Sciences, UNSW
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Detecting Early Onset of Dementia with fMRI Data
+  * March 2020 - Dec 2020
+  * Supervisor: Prof. Lina Yao, School of Computer Science and Engineering, UNSW and Prof. Yu Zhang, College of Engineering and Applied Science, Lehigh University
+
+* Introducing C++ templated code in Physics Simulation Software GAMBIT
+  * Nov. 2021 - Feb. 2022
+  * Supervisor: Dr. Anders Kvellestad, University of Oslo and Dr. Tomas Gonzalo, Karlsruhe Institute of Technology
+
+* Applying diffusion model to regulatory sequences and its in silico verification
+  * Feb. 2023 - Dec. 2023
+  * Supervisor: Prof. Lina Yao, School of Computer Science and Engineering, UNSW
+
 Skills
 ======
 * Skill 1
