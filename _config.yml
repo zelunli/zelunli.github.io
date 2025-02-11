@@ -22,10 +22,10 @@ repository               : "zelunli/zelunli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Zelun Li"
   pronouns         : "he/him" 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Interested in the cross section of Artificial Intelligence and biology"
   location         : "Nomadic always on the move"
   employer         : # NA
   uri              : # URL
