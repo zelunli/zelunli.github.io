@@ -5,6 +5,9 @@ _site/
 # Ignore the directory for local files during development
 local/
 
+#Ignore the vendor directory
+vendor/
+
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
