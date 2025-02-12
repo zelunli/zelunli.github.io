@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate from University of New South Wales with a Bachelor of Advanced Science (Honours) in Bionformatics and Computer Science. I was foutunate to be advised by Prof [Emily Wong](https://www.victorchang.edu.au/about-us/our-scientists/aprof-emily-wong) for my Honours project. In my free time, I enjoy travelling and photography, and I have an unfulfilled dream of being a photojournalist, you can visit some of my photos [here](https://zelunli.github.io/photography/).
+I am a recent graduate from University of New South Wales with a Bachelor of Advanced Science (Honours) in Bionformatics and Computer Science. I was fortunate to be advised by Prof [Emily Wong](https://www.victorchang.edu.au/about-us/our-scientists/aprof-emily-wong) for my Honours project. In my free time, I enjoy travelling and photography, and I have a long-held dream of being a photojournalist , you can see some of my photos [here](https://zelunli.github.io/photography/).
 
 Research Interest
 -----
