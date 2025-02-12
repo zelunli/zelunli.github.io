@@ -13,5 +13,5 @@ Research Interest
 -----
 My research interest lies in the application of Artificial Intelligence in biological research.
 
-I am currently looking for opportunities in the field of AI4biology.
+I am currently looking for opportunities in the field of AI4Science.
 
