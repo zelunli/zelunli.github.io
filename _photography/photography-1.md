@@ -23,7 +23,7 @@ In the summer of 2024, I had the extraordinary opportunity to travel through Afg
 ![alley way near the chicken street](/images/afghanistan/R0009883.jpg)
 *This is back alley way near where the famous chicken street is at in Afghanistan.*
 
-![photo I snaped](/images/afghanistan/R0009883.jpg)
+![photo I snaped](/images/afghanistan/R0009885.jpg)
 *It was sunset, we were walking down the street, and some children were following us. I quickly turned and captured the moment.*
 
 These images represent just a fraction of the profound experiences and connections made during my journey through this remarkable country. Each photograph attempts to capture not just the visual beauty, but the dignity and strength of the Afghan people as they navigate their complex present.
